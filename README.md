@@ -1,4 +1,5 @@
 # Layoff-Trends-Analysis
+Analyzed global tech layoffs using SQL, performing data cleaning and exploratory analysis to uncover top affected companies, industries, and time trends using aggregate and window functions.
 
 ---
 
